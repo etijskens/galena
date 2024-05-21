@@ -39,3 +39,8 @@ From R. Meyer:
 * https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/
 * https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/
 * [](../literature/karras2012hpg_paper.pdf)
+
+# AMR
+
+* [2017 Extreme-Scale Block-Structured Adaptive Mesh Refinement](../literature/2017_Extreme-Scale_Block-Structured_Adaptive_Mesh_Refinement.pdf)
+* 
